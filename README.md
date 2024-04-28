@@ -51,8 +51,15 @@ uvicorn app.main:app --reload
 The API will be available at `http://127.0.0.1:8000`.
 
 ## API Endpoints
-- `POST /upload-image/`: Uploads an image and returns the image with detected faces.
-- `GET /docs`: Access the automatically generated Swagger UI to interact with the API directly.
+- `POST /token`: Login endpoint, returning an access token.
+- `POST /users/`: Create a new user.
+- `GET /users/{user_id}`: Retrieve a user by their ID.
+- `DELETE /users/{user_id}`: Delete a user by their ID.
+- `POST /upload-image/`: Process image uploads for face detection and other operations.
+- `POST /upload-and-return-image/`: Upload an image and return it.
+- `POST /upload-and-crop-face/`: Upload an image and crop the detected face.
+- `GET /docs`: Access the automatically generated Swagger UI to interact with the API.
+
 
 ## Docker Deployment
 To build and run the Docker container:
