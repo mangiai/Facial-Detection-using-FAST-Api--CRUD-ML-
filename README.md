@@ -100,7 +100,7 @@ docker run -p 8000:8000 fastapi-ml
 Contributions are welcome! Please fork the project and submit a pull request, or create an issue to suggest changes or report bugs.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the License for educational and research purposes- see the [LICENSE](LICENSE) file for details.
 
 ## Contact Information
 - Muhammad Ahsan - muhammmadahsan2001@gmail.com (mailto:muhammmadahsan2001@gmail.com)
