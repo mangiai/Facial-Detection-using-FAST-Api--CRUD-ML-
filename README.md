@@ -104,4 +104,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact Information
 - Muhammad Ahsan - muhammmadahsan2001@gmail.com (mailto:muhammmadahsan2001@gmail.com)
-- Project Link: [https://github.com/yourusername/fastapi-machine-learning](https://github.com/yourusername/fastapi-machine-learning)
+- Project Link:https://github.com/depressedcoder0/Facial-Detection-using-FAST-Api--CRUD-ML-
