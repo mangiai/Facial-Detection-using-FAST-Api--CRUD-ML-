@@ -104,4 +104,5 @@ This project is licensed under the License for educational and research purposes
 
 ## Contact Information
 - Muhammad Ahsan - muhammmadahsan2001@gmail.com (mailto:muhammmadahsan2001@gmail.com)
+- LinkedIn - https://www.linkedin.com/in/muhammad-ahsan-mangi-316b1a2a0/
 - Project Link:https://github.com/depressedcoder0/Facial-Detection-using-FAST-Api--CRUD-ML-
