@@ -57,9 +57,8 @@ This project demonstrates the integration of machine learning with FastAPI, enab
 ### Installation
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/fastapi-machine-learning.git
-   cd fastapi-machine-learning
-   ```
+   git clone https://github.com/depressedcoder0/Facial-Detection-using-FAST-Api--CRUD-ML-.git
+   cd Facial-Detection-using-FAST-Api--CRUD-ML-
 
 2. **Set up a virtual environment (optional but recommended):**
    ```bash
