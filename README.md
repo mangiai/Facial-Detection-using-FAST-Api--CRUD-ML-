@@ -68,5 +68,5 @@ Contributions are welcome! Please fork the project and submit a pull request, or
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact Information
-- Muhammad Ahsan - [your-email@example.com](mailto:your-email@example.com)
+- Muhammad Ahsan - [muhammmadahsan2001@gmail.com](mailto:your-email@example.com)
 - Project Link: [https://github.com/yourusername/fastapi-machine-learning](https://github.com/yourusername/fastapi-machine-learning)
